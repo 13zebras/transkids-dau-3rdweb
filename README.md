@@ -1,4 +1,4 @@
 # Transkids DAO using ThirdWeb Dao starter kit
 
 
-![Transkids DAO](/transkidsdao.jpg)
+![Transkids DAO](/public/transkidsdao.jpg)
